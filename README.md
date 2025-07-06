@@ -60,7 +60,7 @@ Based on the projects I work on, here are some key technologies and languages I 
 
 ## 📊 GitHub Activity Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=techwithmano&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=techwithmano&theme=react-dark&hide_border=true)](https://github-readme-activity-graph.cyclic.app/graph?username=techwithmano&theme=react-dark&hide_border=true))
 
 ---
 
