@@ -24,12 +24,25 @@ Based on the projects I work on, here are some key technologies and languages I 
 
 ---
 
-## 🌟 Projects & Content
+## 🌟 Featured Projects
 
-- [**ManoMed AI**](https://github.com/techwithmano/ManoMedAI) — AI-powered medical diagnosis system  
-- [**Hudhud**](https://github.com/techwithmano/hudhud) — Cross-platform 2D game with intuitive on-screen controls  
-- [**EduZone**](https://github.com/techwithmano/Eduzone) — Full-stack educational platform with teacher & student dashboards  
-- [**SudanScout**](https://github.com/techwithmano/SUDANSCOUT) — Scout membership and dues tracking system; also my photography home!
+- 🎥 [**ManoWatch**](https://github.com/techwithmano/ManoWatch)  
+  Real-time watch party platform to stream videos together with friends—no login needed.
+
+- 🧠 [**ManoMed AI**](https://github.com/techwithmano/ManoMedAI)  
+  AI-powered medical diagnosis assistant built with Gemini API and TypeScript.
+
+- 🧑‍🏫 [**EduZone**](https://github.com/techwithmano/Eduzone)  
+  Full-stack educational platform with role-based dashboards, course creation, and assignments.
+
+- 🔎 [**SudanScout**](https://github.com/techwithmano/SUDANSCOUT)  
+  A scout management system for dues tracking, member profiles, and editable scout ID access.
+
+- 🕹️ [**Hudhud**](https://github.com/techwithmano/hudhud)  
+  A cross-platform 2D game with clean controls and custom levels.
+
+- 🧑‍💼 [**Abdulrahman.H**](https://github.com/techwithmano/Abdulrahman.H)  
+  My personal developer portfolio site, built to showcase my skills and journey.
 
 ---
 
